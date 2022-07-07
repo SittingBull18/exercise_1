@@ -3,7 +3,7 @@
 
 # Hallo liebe Mitglieder der HAMGroup FreeDV
 
-Dies ist das Übungs-Repository, mit dem Ihr bitte mindestens die zwei beschriebenen Übungen zum Umgang mit git und github als Hausaufgabe machen solltet.
+Dies ist das Übungs-Repository, mit dem Ihr bitte mindestens diese Übung zum Umgang mit git und github als Hausaufgabe machen solltet. Wenn das gut läuft werde ich eine zweite Übung nachliefern :-)
 
 ## Erste Aufgabe
 Eure erste Aufgabe besteht darin, in dieser Datei eine oder mehrere Zusatz-Zeilen hinzuzufügen.
