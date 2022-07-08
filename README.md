@@ -1,3 +1,7 @@
+# DK3RU, Hubert
+Danke für diese schöne Aufgabe, Andreas.
+73 an alles Mitglieder der freeDV-Gruppe - Hubert
+
 # exercise_1
 Übung 1
 
