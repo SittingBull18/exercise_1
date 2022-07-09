@@ -1,6 +1,6 @@
 # DC7UP, Uwe
 Link zu einem e-Book über Git
-http://git-scm.com/book/de/v2
+http://git-scm.com/book/de/v2  
 73 de Uwe
 
 
