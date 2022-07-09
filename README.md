@@ -1,3 +1,9 @@
+# DC7UP, Uwe
+Link zu einem e-Book über Git
+http://git-scm.com/book/de/v2
+73 de Uwe
+
+
 # DK3RU, Hubert
 Danke für diese schöne Aufgabe, Andreas.
 73 an alles Mitglieder der freeDV-Gruppe - Hubert
