@@ -1,3 +1,16 @@
+# DM1JH, Jörg
+
+Hallo zusammen,
+
+bis hierher hat alles geklappt.
+
+@Uwe:  Danke für den Link zur Doku.
+
+Viele Grüße aus dem Vogtland.
+
+73 de Jörg
+
+
 # DC7UP, Uwe
 Link zu einem e-Book über Git
 http://git-scm.com/book/de/v2  
