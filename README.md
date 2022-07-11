@@ -21,6 +21,12 @@ http://git-scm.com/book/de/v2
 Danke für diese schöne Aufgabe, Andreas.
 73 an alles Mitglieder der freeDV-Gruppe - Hubert
 
+# DJ4MO, Manfred
+Hallo Andreas,
+am 8.7.2022 war der 80m FreeDV Funktermin um 22:00 gut besucht.
+Auch am 10.07.2022 waren trotz Contest ein paar Teilnehmer am 13:30 Funktermin dabei.
+Beobachtung: Bei beiden Funkterminen waren Gegenstationen mit magnetischer Antenne aus der Umgebung von Dortmund nicht hörbar. 
+
 # exercise_1
 Übung 1
 
